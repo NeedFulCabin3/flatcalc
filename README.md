@@ -36,8 +36,7 @@ If you prefer running it locally, ensure you have Python 3 installed.
 
 ## Project Structure
 ```bash
-flatcalc
-│
+flatcalc/
 ├── .github/
 │      └── workflows/
 │          └── ci.yml         # Multi-version automated syntax validation
